@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iluminate](https://github.com/iluminate)
 
-- 💬 Ask me about **kotlin, javascript and go**
+- 💬 Ask me about **javascript and go**
 
 - 📫 How to reach me **kevyn24ec@gmail.com**
 
