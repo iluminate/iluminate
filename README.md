@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iluminate" alt="iluminate" /></a> </p>
 
-- 🔭 I’m currently working on [bodyworks-crm](https://bodyworks.netlify.app/)
+- 🔭 I’m currently working on [bodyworks-crm](https://bodyworks-app-git-develop-iluminates-projects.vercel.app)
 
 - 🌱 I’m currently learning **Machine learning**
 
