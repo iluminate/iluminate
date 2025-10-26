@@ -15,13 +15,13 @@
 ## 🎯 Currently Building
 
 **Bodyworks CRM** — Complete business platform for automotive companies  
-`Go` `Next.js` `PostgreSQL` `Redis` `Heroku`
+`Go` `Next.js` `MySQL` `Redis` `Heroku`
 
 **Surebet** — Real-time arbitrage betting platform with odds aggregation and profit calculator  
 `Go` `WebSockets` `Redis` `React` `Microservices`
 
 **AxoPDF** — High-performance PDF generation and manipulation service with template engine  
-`Go` `REST API` `S3` `Docker` `Serverless`
+`Rust` `REST API` `AWS Lamda` `Serverless`
 
 ## 💻 Tech Stack
 
