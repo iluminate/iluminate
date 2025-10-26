@@ -18,7 +18,7 @@
 `Go` `Next.js` `MySQL` `Redis` `Heroku`
 
 **Surebet** — Real-time arbitrage betting platform with odds aggregation and profit calculator  
-`Go` `WebSockets` `Redis` `React` `Microservices`
+`Node.js` `WebSockets` `Redis` `React` `Microservices`
 
 **AxoPDF** — High-performance PDF generation and manipulation service with template engine  
 `Rust` `REST API` `AWS Lamda` `Serverless`
